@@ -5,7 +5,7 @@
 **Skills:**
 + Native Russian
 + English (intermediate)
-+ Basic theoretical knowledge: the basics of testing,MSSQL,HTML, CSS, the principles of OOP.
++ Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
 + Driving License (Category B)
 + Computer skills: at the level of an experienced user (Microsoft Office, Internet, etc.).
 + Hobbies: foreign language, sport
@@ -49,10 +49,14 @@ sociability, teamwork skills, stress resistance, self-learning
   </div>
   </div>
 ```
+**I am student at Wild Code School**
  **My progects:**
- - [DAVI](https://dianakove32.github.io/DAVI/)
- - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/)
- - [wildlife](https://dianakove32.github.io/wildlife/index.html)
+ - [DEMO: DAVI](https://dianakove32.github.io/DAVI/) 
+ [GitHub](https://github.com/Dianakove32/DAVI)
+ - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
+ [GitHub](https://github.com/Dianakove32/GeneratorEngl)
+ - [wildlife](https://dianakove32.github.io/wildlife/index.html) 
+ [GitHub](https://github.com/Dianakove32/wildlife)
 
 **Education:**    
 - BelSUT, Gomel, Belarus, Faculty of Humanities and Economics  (2007- 2013)
