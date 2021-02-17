@@ -52,11 +52,11 @@ sociability, teamwork skills, stress resistance, self-learning
 **I am student at Wild Code School**
  **My progects:**
  - [DEMO: DAVI](https://dianakove32.github.io/DAVI/) 
- [GitHub](https://github.com/Dianakove32/DAVI)
+ - [GitHub](https://github.com/Dianakove32/DAVI)
  - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
- [GitHub](https://github.com/Dianakove32/GeneratorEngl)
- - [wildlife](https://dianakove32.github.io/wildlife/index.html) 
- [GitHub](https://github.com/Dianakove32/wildlife)
+ - [GitHub](https://github.com/Dianakove32/GeneratorEngl)
+ - [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
+ - [GitHub](https://github.com/Dianakove32/wildlife)
 
 **Education:**    
 - BelSUT, Gomel, Belarus, Faculty of Humanities and Economics  (2007- 2013)
